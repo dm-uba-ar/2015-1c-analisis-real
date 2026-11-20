@@ -1,9 +1,4 @@
-# Análisis Real - Medida y Probabilidad — Primer cuatrimestre de 2015
-
-## Equipo docente
-
-- **Clases teóricas:** María Elena Becker
-- **Clases prácticas:** Irene Drelichman, Maximiliano Valle
+# Análisis Real — Primer cuatrimestre de 2015
 
 ## Prácticas
 
